@@ -50,3 +50,8 @@ pip install pandapower streamlit plotly pandas
 streamlit run app.py
 ```
 (The dashboard will automatically open in your default web browser, typically at http://localhost:8501)
+
+## Overview
+<img width="1710" height="1107" alt="1  Initial Page" src="https://github.com/user-attachments/assets/045be534-4935-43c0-aafd-a79096c49186" />
+<img width="1710" height="1107" alt="2  Simulation Result   Bus Voltages" src="https://github.com/user-attachments/assets/9d82569f-8df6-48e0-baf8-7a5f650792b6" />
+<img width="1710" height="1107" alt="3  Voltage Profile" src="https://github.com/user-attachments/assets/47eb1308-eded-45a6-842b-82855d897204" />
